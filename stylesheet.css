@@ -268,4 +268,7 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  .ope{
+  float:right;
+  }
 }
